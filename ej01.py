@@ -1,2 +1,1 @@
 #EJERCICIO 1: FICHA DE CLIENTE
-print("hola")
