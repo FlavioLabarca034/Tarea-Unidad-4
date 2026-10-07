@@ -10,7 +10,7 @@ while(True):                                                                    
         break
     else:
         print("Valor incorrecto, por favor ingrese otro valor.")
-
+                                                                                                        #Este búcle se realiza fuera de la clase ya que este afecta a la empresa en general
 
 class empleado:                                                                                         #Crear clase "empleado"
     def __init__(self, nombre, cargo, salario_mensual):                                                 #Inicializar el nombre, cargo, y salario mensual del empleado
