@@ -1,7 +1,7 @@
 Nombre: Flavio Labarca
 
 Lista de ejercicios realizados:
--Ejercicio 1\n
+-Ejercicio 1
 -Ejercicio 2
 -Ejercicio 3
 -Ejercicio 4
